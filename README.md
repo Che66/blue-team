@@ -1,4 +1,5 @@
-blue-team
+# blue-team
+
 Blue Team Scripts
 
-Tested on Debian 9
+* Tested on Debian 9
